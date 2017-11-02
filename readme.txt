@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 My stupid boss still prefers CVS.
 My stupid boss still prefers CVS, too.
+My stupid boss don't like Git.
