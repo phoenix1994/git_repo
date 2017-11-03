@@ -1,11 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-My stupid boss still prefers SVN.
-My stupid boss still prefers CVS.
-My stupid boss still prefers CVS, too.
-My stupid boss don't like Git.
-
-Merge completed!
-I come back to dev.
+I will delete dev.
