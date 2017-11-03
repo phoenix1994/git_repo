@@ -7,4 +7,4 @@ My stupid boss still prefers CVS.
 My stupid boss still prefers CVS, too.
 My stupid boss don't like Git.
 
-Now,I am on dev branch.
+Merge completed!
