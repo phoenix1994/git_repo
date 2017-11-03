@@ -7,5 +7,4 @@ My stupid boss still prefers CVS.
 My stupid boss still prefers CVS, too.
 My stupid boss don't like Git.
 
-Merge completed!
-I come back to dev.
+I'm issue-1.
