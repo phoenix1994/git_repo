@@ -7,4 +7,5 @@ My stupid boss still prefers CVS.
 My stupid boss still prefers CVS, too.
 My stupid boss don't like Git.
 
-I'm issue.
+I will delete dev.
+I will delete the file.
